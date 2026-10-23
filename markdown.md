@@ -1,10 +1,19 @@
-# Introducción a Ubuntu Server
-## Conceptos Básicos
+# Introducción de Implantación de Aplicaciones Web SR2A
 
-Ubuntu Server es una distribución de Linux fundamental en la administración de sistemas. Es crucial dominar la consola para gestionar los **permisos de usuario**, configurar la red y editar ficheros de forma *rápida*. Un comando muy utilizado a diario es el `ls -l` para listar los archivos de un directorio.
+![Imagen local](assets/mi-imagen.png)
 
-### Ejemplo de configuración de red
+## Documentación
+
+La documentación técnica es **fundamental** para cualquier desarrollo de *software*, ya que permite organizar el código de forma `rápida`.
+
+### Tabla Resumen Git y Github
+| Herramienta | Tipo | Uso |
+| --- | --- | --- |
+| Git | Control de versiones | Gestión de código |
+| GitHub | Plataforma en la nube | Alojamiento de repositorios |
+| Markdown | Lenguaje de marcado | Documentación técnica |
+
+### Ejemplo en GIT
 ```bash
-sudo nano /etc/netplan/00-installer-config.yaml
-sudo netplan apply
-
+# Inicializar un nuevo repositorio Git
+git init
