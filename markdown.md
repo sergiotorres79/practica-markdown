@@ -1,4 +1,4 @@
-# Introducción de Implantación de Aplicaciones Web SR2A
+# Implantación de Aplicaciones Web - IES Clara del Rey
 
 ![Imagen local](assets/mi-imagen.png)
 
@@ -17,3 +17,21 @@ La documentación técnica es **fundamental** para cualquier desarrollo de *soft
 ```bash
 # Dar permisos de ejecución a un script
 chmod +x script.sh
+```
+
+### Recursos y Detalles
+Para más información, puedes consultar la [Documentación oficial de Ubuntu](https://ubuntu.com/server/docs).
+También puedes revisar nuestros [detalles adicionales del proyecto](docs/detalles.md).
+
+### Pasos de configuración inicial
+1. Instalar el sistema operativo.
+2. Configurar la red.
+3. Ajustar los permisos.
+
+### Características de seguridad
+* Usuarios limitados.
+* Cortafuegos activo.
+* Contraseñas cifradas.
+
+### Imagen Externa (Wikimedia Commons)
+![Logo Educación](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Logotipo_del_MEC.svg/256px-Logotipo_del_MEC.svg.png)
