@@ -34,4 +34,4 @@ También puedes revisar nuestros [detalles adicionales del proyecto](docs/detall
 * Contraseñas cifradas.
 
 ### Imagen Externa (GitHub)
-![Logo GitHub](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/GitHub_logo_2013.svg/960px-GitHub_logo_2013.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![Icono GitHub](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Font_Awesome_5_brands_github.svg/960px-Font_Awesome_5_brands_github.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
