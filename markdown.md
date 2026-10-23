@@ -7,4 +7,3 @@ Ubuntu Server es una distribución de Linux fundamental en la administración de
 ```bash
 sudo nano /etc/netplan/00-installer-config.yaml
 sudo netplan apply
-
