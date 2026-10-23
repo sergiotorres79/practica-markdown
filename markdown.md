@@ -33,5 +33,5 @@ También puedes revisar nuestros [detalles adicionales del proyecto](docs/detall
 * Cortafuegos activo.
 * Contraseñas cifradas.
 
-### Imagen Externa (IES Clara del Rey)
-![IES Clara del Rey](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/I.e.s._clara_del_rey_%28Prosperidad%2C_Madrid%29.jpg/1920px-I.e.s._clara_del_rey_%28Prosperidad%2C_Madrid%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20200711190004)
+### Imagen Externa (GitHub)
+![Logo GitHub](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/GitHub_logo_2013.svg/960px-GitHub_logo_2013.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
