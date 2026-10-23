@@ -1,3 +1,11 @@
+# Introducción de Implantación de Aplicaciones Web SR2A
+
+![Imagen local](assets/mi-imagen.png)
+
+## Documentación
+
+La documentación técnica es **fundamental** para cualquier desarrollo de *software*, ya que permite organizar el código de forma `rápida`.
+
 ### Tabla Resumen Permisos Linux
 | Comando | Función principal | Nivel de Privilegio |
 | --- | --- | --- |
